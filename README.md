@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # 🏗 Scaffold-ETH 2
 
 <h4 align="center">
@@ -85,3 +86,30 @@ Please see [CONTRIBUTING.MD](https://github.com/scaffold-eth/scaffold-eth-2/blob
 =======
 # DappSystem
 >>>>>>> 75a4f7d49a9fdfd438b0adcff4785afc9df371a4
+=======
+# DappSystem
+
+# Milestone Funding DApp
+
+A hybrid decentralized crowdfunding application built using:
+- Solidity (Smart Contracts)
+- Hardhat (Blockchain)
+- Next.js (Frontend)
+- Node.js & Express (Backend)
+- MongoDB Atlas (Database)
+
+## Features
+- Wallet-based contribution
+- Milestone voting system
+- Payment release after approval
+- Refund system for failed campaigns
+- Off-chain metadata storage using MongoDB
+
+## How to run
+
+```bash
+yarn chain
+yarn deploy
+npm run dev (backend)
+yarn dev (frontend)
+>>>>>>> 2d280b878eb01c975491a8bb946cbdc2f450822f
